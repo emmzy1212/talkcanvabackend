@@ -1,0 +1,13 @@
+outlook.com
+talkcanvas@outlook.com
+Staylow3237
+
+mongodb
+https://cloud.mongodb.com/
+talkcanvas@outlook.com
+Staylow3237
+mongodb+srv://talkcanvas:Staylow3237@talkcanvas.illrl70.mongodb.net/
+
+
+developer test data base from my main mongodb
+mongodb+srv://emmzy32377:Staylow3237@talkcanvas.jto3zpb.mongodb.net/
